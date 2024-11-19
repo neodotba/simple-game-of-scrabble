@@ -8,7 +8,7 @@ int calculate_score(string word);
 
 int main(void)
 {
-    // Gets the two inputs from both players.
+    // Gets inputs from both players.
     string first_word = get_string("Enter the first word: ");
     string second_word = get_string("Enter the second word: ");
 
